@@ -2,7 +2,7 @@
 
 ## 📊 Resumen Ejecutivo
 
-Este análisis identifica qué servicios de jardinería generan más ganancia por hora, permitiendo optimizar precios y priorizar los trabajos más rentables.
+Este análisis identifica qué servicios de jardinería generan más ganancia por hora, permitiendo optimizar precios, priorizar servicios y maximizar el uso del tiempo.
 
 💡 Insight clave:
 Los trabajos de árboles pequeños generan casi **5x más ganancia por hora** que el corte de césped.
@@ -37,7 +37,7 @@ A partir de estos datos, se calcularon:
 - Análisis de rentabilidad
 
   ## Visualización
-
+A continuación se muestra la rentabilidad por hora de cada tipo de servicio, ordenada de menor a mayor.
 ![Rentabilidad](images/chart.png)
 
   ## Resultados Clave
@@ -54,3 +54,11 @@ Enfocarse más en servicios de alta rentabilidad y optimizar los trabajos de men
 ## Conclusión
 
 Este análisis demuestra que no todos los servicios generan el mismo valor por hora. Priorizar trabajos de alta rentabilidad como árboles pequeños y césped (instalación) puede aumentar significativamente las ganancias del negocio sin necesidad de aumentar el volumen de trabajo. El uso de datos permite tomar decisiones más estratégicas y maximizar el uso del tiempo disponible.
+
+## 📌 Aplicación Práctica
+
+Este tipo de análisis puede ser utilizado por negocios de jardinería para:
+
+- Ajustar precios según rentabilidad real
+- Priorizar servicios más eficientes
+- Mejorar la planificación del tiempo de trabajo
