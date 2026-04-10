@@ -68,3 +68,7 @@ Este tipo de análisis puede ser utilizado por negocios de jardinería para:
 - Ajustar precios según rentabilidad real
 - Priorizar servicios más eficientes
 - Mejorar la planificación del tiempo de trabajo
+
+## ⏱️ Optimización del Tiempo Semanal
+
+Dado que el tiempo de trabajo es limitado, priorizar los servicios con mayor rentabilidad por hora puede aumentar significativamente los ingresos semanales sin necesidad de trabajar más horas. Por ejemplo, en lugar de llenar la semana con trabajos de baja rentabilidad como el corte de césped, el negocio puede enfocarse en servicios como trabajos de árboles o instalación de césped, generando más ingresos en menos tiempo.
