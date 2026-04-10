@@ -9,11 +9,11 @@ Los trabajos de árboles pequeños generan casi **5x más ganancia por hora** qu
 
 ## Objetivo
 
-Este proyecto analiza diferentes tipos de trabajos de jardinería para identificar cuáles generan más ganancia y cuáles aprovechan mejor el tiempo de trabajo. El objetivo es ayudar a mejorar decisiones de precios, servicios y eficiencia en el negocio.
+Este proyecto analiza diferentes tipos de trabajos de jardinería para identificar cuáles generan más rentabilidad y cuáles aprovechan mejor el tiempo de trabajo. El objetivo es ayudar a mejorar decisiones de precios, servicios y eficiencia en el negocio.
 
 ## Problema
 
-En muchos negocios de jardinería, no siempre es claro qué servicios son los más rentables. Algunos trabajos generan ingresos constantes, pero no necesariamente la mejor ganancia por hora. Sin un análisis claro, es difícil saber en qué servicios enfocarse para maximizar ganancias.
+En muchos negocios de jardinería, no siempre es claro qué servicios son los más rentables. Algunos trabajos generan ingresos constantes, pero no necesariamente la mejor ganancia por hora. Sin un análisis claro, es difícil saber en qué servicios enfocarse para maximizar rentabilidades.
 
 ## Método
 
@@ -29,6 +29,8 @@ A partir de estos datos, se calcularon:
 - Costo total  
 - Ganancia  
 - Ganancia por hora
+
+Nota: Los datos utilizados en este análisis son simulados pero reflejan escenarios realistas basados en precios y tiempos comunes en la industria de jardinería.
 
 ## 🛠️ Herramientas Utilizadas
 
@@ -49,11 +51,15 @@ A continuación se muestra la rentabilidad por hora de cada tipo de servicio, or
 
 ## Recomendación
 
-Enfocarse más en servicios de alta rentabilidad y optimizar los trabajos de menor ganancia puede aumentar significativamente las ganancias del negocio. También se recomienda revisar los precios de servicios con baja ganancia por hora para mejorar su rentabilidad.
+Enfocarse más en servicios de alta rentabilidad y optimizar los trabajos de menor ganancia puede aumentar significativamente las ganancias del negocio. También Se recomienda aumentar precios o reducir tiempo en servicios con baja rentabilidad, y enfocar la agenda en trabajos de alta ganancia por hora.
 
 ## Conclusión
 
 Este análisis demuestra que no todos los servicios generan el mismo valor por hora. Priorizar trabajos de alta rentabilidad como árboles pequeños y césped (instalación) puede aumentar significativamente las ganancias del negocio sin necesidad de aumentar el volumen de trabajo. El uso de datos permite tomar decisiones más estratégicas y maximizar el uso del tiempo disponible.
+
+## 💥 Impacto Potencial
+
+Aplicando este análisis, un negocio de jardinería puede aumentar sus ingresos sin trabajar más horas, simplemente tomando mejores decisiones sobre qué trabajos aceptar y cómo fijar precios.
 
 ## 📌 Aplicación Práctica
 
